@@ -1,2 +1,2 @@
 # Video-Game-Store
-This video game store program was created my freshman year of college. The video game store uses python and tkinter to create a GUI, in which the user is able to buy games that they select. 
+This video game store program was created my freshman year of college. The video game store uses python and tkinter to create a GUI, in which the user is able to buy games that they select. This program could be used for any kind of online store. Users are able to search through the data to find a specific thing that they would like to buy. When they do find something, users are able to add it to a cart and then proceed to checkout with everything they want to buy.
